@@ -1,0 +1,6 @@
+title: "Legacy Redirect"
+description: "This site redirects to the main site."
+baseurl: ""
+url: ""
+
+exclude: ['README.md']
